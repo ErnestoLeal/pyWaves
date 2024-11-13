@@ -1,0 +1,3 @@
+Matching the output impedance of the generator to the load ensures maximum power 
+Transfer and minimizes signal reflections, which can distort the waveform.
+If the impedance is mismatched, the waveform may not have the desired amplitude or shape.
